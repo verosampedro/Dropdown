@@ -8,9 +8,11 @@ The exercise consisted of recreating this screenshot (with total freedom to use 
 
 ## Final result
 
-![image](https://github.com/verosampedro/Dropdown/assets/146768253/9c2511d1-9c32-4760-bba6-aa1de51069fc)
+![image](https://github.com/verosampedro/Dropdown/assets/146768253/541be3c7-3850-44ec-9f46-ffbc6af6945a)
 
-![image](https://github.com/verosampedro/Dropdown/assets/146768253/aee8f684-af9a-4339-afa1-1a656c5ef876)
+
+![image](https://github.com/verosampedro/Dropdown/assets/146768253/b848af18-8b47-4127-a268-39b71bb4ba3e)
+
 
 (all buttons are drop-down and when you hover the mouse over each item, it changes its color to black).
 
