@@ -87,6 +87,13 @@ body {
     background-color: white;
 }
 
+.container_4 {
+  border: 1px solid black;
+  padding: 20px;
+  width: 900px;
+  background-color: white;
+}
+
 .mini-container {
     display: flex;
     justify-content: space-between;
